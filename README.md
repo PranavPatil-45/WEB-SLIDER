@@ -7,9 +7,6 @@
 
 ✅ **Smooth Transitions** – Animated sliding effects for seamless image changes.  
 ✅ **Auto-Sliding** – Automatically cycles through images with adjustable timing.  
-✅ **Keyboard & Touch Support** – Navigate with arrow keys or swipe on mobile.  
-✅ **Infinite Loop** – Seamlessly loops from first to last image and vice versa.  
-✅ **Pause on Hover** – Auto-slider pauses when the user interacts.  
 ✅ **Responsive Design** – Works on all screen sizes (desktop, tablet, mobile).  
 ✅ **Preloading Images** – Ensures smooth transitions without loading delays.  
 ✅ **Clean & Modern UI** – Stylish buttons with hover effects and subtle animations.  
@@ -67,6 +64,10 @@ Edit the CSS in `style.css`:
   transition: transform 0.8s ease-in-out, opacity 0.8s ease;
 }
 ```
+
+https://github.com/user-attachments/assets/74926339-dc65-47eb-8232-6999c7dbe1ed
+
+
 
 ## **📜 License**  
 This project is open-source under the **[MIT License](LICENSE)**.  
