@@ -16,7 +16,7 @@
 
 ## **🚀 Demo**  
 
-🔗 **[Live Demo](#)** *(Replace with your GitHub Pages or Netlify link)*  
+🔗 **[Live Demo](#)** *](https://github.com/PranavPatil-45/WEB-SLIDER)*  
 
 ![Slider Preview](https://via.placeholder.com/800x400?text=JavaScript+Slider+Demo)  
 
@@ -74,7 +74,7 @@ This project is open-source under the **[MIT License](LICENSE)**.
 ## **💡 Contributing**  
 Feel free to submit issues or pull requests!  
 
-🔗 **GitHub Repository:** [https://github.com/your-username/js-image-slider](https://github.com/your-username/js-image-slider)  
+🔗 **GitHub Repository:**https://github.com/PranavPatil-45/WEB-SLIDER
 
 ---
 
